@@ -225,14 +225,14 @@ print(x_single_prediction)
 <p>&nbsp;</p>
 
 <p float="left" style="padding-bottom:10">
-  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in11.PNG" width="300" height="50">
-  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in21.PNG" width="300" height="50">
+  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in11.PNG" width="300" height="80">
+  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in21.PNG" width="300" height="80">
 </p>
 <p>&nbsp;</p>
 
 <p float="left" style="padding-bottom:10">
-  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in12.PNG" width="300" height="50">
-  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in22.PNG" width="300" height="50">
+  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in12.PNG" width="300" height="80">
+  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in22.PNG" width="300" height="80">
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
