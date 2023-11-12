@@ -203,8 +203,8 @@ print(x_single_prediction)
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 <p float="left">
-  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/1.png" width="300" height="200">
-  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/2.png" width="300" height="200">
+  <img  src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/1.png" width="300" height="200">
+  <img  src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/2.png" width="300" height="200">
 </p>
 
 ### Classification Report
