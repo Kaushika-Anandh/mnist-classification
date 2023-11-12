@@ -47,6 +47,7 @@ To Develop a convolutional deep neural network for digit classification and to v
 <p align="center">
 <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/NNmodel.PNG" width="450" height="200">
 </p>
+<br>
 
 ## DESIGN STEPS
 - **Step 1:** Import tensorflow and preprocessing libraries
@@ -216,7 +217,7 @@ print(x_single_prediction)
 <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/conmatrix.PNG" width="350" height="150">
 
 ### New Sample Data Prediction
-### Sample image - 1 : input & output&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sample image - 2 : input & output
+### Sample image - 1 : input & output&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sample image - 2 : input & output
 
 <p float="left" style="padding-bottom:10">
   <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/numeg.PNG" width="28" height="28">
