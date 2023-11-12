@@ -45,7 +45,7 @@ To Develop a convolutional deep neural network for digit classification and to v
 ## Neural Network Model
 
 <p align="center">
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/NNmodel.PNG" width="550" height="300">
+<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/NNmodel.PNG" width="450" height="200">
 </p>
 
 ## DESIGN STEPS
@@ -203,8 +203,8 @@ print(x_single_prediction)
 ### Training Loss, Validation Loss Vs Iteration Plot
 
 <p float="left">
-  <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/1.png" width="400" height="300">
-  <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/2.png" width="400" height="300">
+  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/1.png" width="300" height="200">
+  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/2.png" width="300" height="200">
 </p>
 
 ### Classification Report
