@@ -216,7 +216,7 @@ print(x_single_prediction)
 <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/conmatrix.PNG" width="350" height="150">
 
 ### New Sample Data Prediction
-### Sample image - 1 : input & output&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sample image - 2 : input & output
+### Sample image - 1 : input & output&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sample image - 2 : input & output
 
 <p float="left" style="padding-bottom:10">
   <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/numeg.PNG" width="28" height="28">
