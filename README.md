@@ -45,7 +45,7 @@ To Develop a convolutional deep neural network for digit classification and to v
 ## Neural Network Model
 
 <p align="center">
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/NNmodel.PNG" width="650" height="400">
+<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/NNmodel.PNG" width="550" height="300">
 </p>
 
 ## DESIGN STEPS
