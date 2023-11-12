@@ -207,10 +207,6 @@ print(x_single_prediction)
   <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/2.png" width="400" height="300">
 </p>
 
-
-
-
-
 ### Classification Report
 
 <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/3.PNG" width="350" height="230">
@@ -220,17 +216,29 @@ print(x_single_prediction)
 <img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/conmatrix.PNG" width="350" height="150">
 
 ### New Sample Data Prediction
-### Sample image - 1 : input & output
+### Sample image - 1 : input & output&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sample image - 2 : input & output
 
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/numeg.PNG" width="28" height="28">
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in11.PNG" width="400" height="100">
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in12.PNG" width="400" height="100">
+<p float="left" style="padding-bottom:10">
+  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/numeg.PNG" width="28" height="28">
+  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/numeg2.PNG" width="28" height="28">
+</p>
+<p>&nbsp;</p>
 
-### Sample image - 2 : input & output
+<p float="left" style="padding-bottom:10">
+  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in11.PNG" width="400" height="100">
+  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in21.PNG" width="400" height="100">
+</p>
+<p>&nbsp;</p>
 
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/numeg2.PNG" width="28" height="28">
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in21.PNG" width="400" height="100">
-<img src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in22.PNG" width="400" height="100">
+<p float="left" style="padding-bottom:10">
+  <img align="left" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in12.PNG" width="400" height="100">
+  <img align="right" src="https://github.com/Kaushika-Anandh/mnist-classification/blob/main/in22.PNG" width="400" height="100">
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## RESULT
 
